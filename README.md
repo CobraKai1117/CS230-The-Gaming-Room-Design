@@ -1,6 +1,6 @@
 # CS230-The-Gaming-Room-Design
 
-**Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design? **
+**Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?**
 
 The Gaming Room was a hypothetical client that wanted to develop web based games for multiple platforms. These games were based on a current game they had developed for the Android App. They wanted to extend the development of this game to other operating platforms (such as Windows and Linux) and wanted me to help them through the design, planning and implementation of this process.
 
